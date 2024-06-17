@@ -1,0 +1,51 @@
+const menu = [
+  {
+    id: 1,
+    title: "โคตรนัวตัวกลม",
+    category: "food",
+    price: 15.99,
+    img: "https://food-cms.grab.com/compressed_webp/items/THITE2024022702302891405/detail/menueditor_item_dbdb258538cf4823ad39d10ad9e023ce_1709000959691663389.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+  {
+    id: 2,
+    title: "หมี่กระเฉดเจ๊อ้อยตลาดพลู",
+    category: "food",
+    price: 13.99,
+    img: "https://food-cms.grab.com/compressed_webp/items/THITE2023081901551134921/detail/menueditor_item_8798da3d1bc2490bb8df184e746f7dcc_1692410178557993251.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+  {
+    id: 3,
+    title: "กระเพราเนื้อ Maker",
+    category: "food",
+    price: 6.99,
+    img: "https://food-cms.grab.com/compressed_webp/merchants/3-C2NFACAWCXXYCX/hero/b7f52c5687404a51a37d5336b85c3aac_1618562004669167828.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+  {
+    id: 4,
+    title: "ครัวบ้านฉัน ",
+    category: "food",
+    price: 20.99,
+    img: "https://food-cms.grab.com/compressed_webp/items/THITE2023080912041951422/detail/menueditor_item_ad7bff45541e4b1abff08e272676598f_1691582633402823225.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+  {
+    id: 5,
+    title: "ซี๊ดหน้าหม้อ ",
+    category: "food",
+    price: 22.99,
+    img: "https://food-cms.grab.com/compressed_webp/items/THITE2024040309254481994/detail/menueditor_item_6719788a08884e92bd4db7d6c1e92f01_1712136259508791295.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+  {
+    id: 6,
+    title: "เนื้อตุ๋นชามโต",
+    category: "food",
+    price: 18.99,
+    img: "https://food-cms.grab.com/compressed_webp/items/THITE2023032212550962262/detail/menueditor_item_610a3da9fa06490f8dc6f9c872cb89ea_1679489594419421698.webp",
+    desc: `อาหารตามสั่ง`,
+  },
+];
+export default menu;
